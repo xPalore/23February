@@ -97,6 +97,7 @@ header{
 
 .congratulation-text::after{
   content: "23";
+  font-size: 14px;
   position: absolute;
   top: 25;
   left: 105;
@@ -106,6 +107,7 @@ header{
 
 .congratulation-text::before{
   content: "23";
+  font-size: 11px;
   position: absolute;
   top: -25;
   left: 170;
